@@ -49,11 +49,11 @@ Il a été réalisé à l'aide de **Python** pour le traitement des données et 
 ## 📝 Fichiers du projet
 
 | Nom du fichier | Description |
-|----|----|
+|------------------------------------|------------------------------------|
 | `data/etape1.gpx` | Fichier GPS exporté depuis OpenRunner |
 | `data/fichier_avec_communes.csv` | Fichier CSV enrichi avec élévation et commune |
 | `etape1.twb` | Fichier Tableau profil altitude |
-| `script_geocodage.py` | Script Python utilisé pour ajouter les communes |
+| `add_city.py` | Script Python utilisé pour ajouter les communes |
 | `README.md` | Ce fichier |
 
 ------------------------------------------------------------------------
